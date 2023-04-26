@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-component-with-flex-j3xJeJC-ym)
-- Live Site URL: [Vercel](https://3-column-preview-card-sand.vercel.app/)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-with-flex-RBin-GhB9z)
+- Live Site URL: [Vercel](https://single-price-grid-component-aesthete797.vercel.app/)
 
 ### Built with
 
